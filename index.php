@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>coba remote</title>
+</head>
+<body>
+    <p>Hello World</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus quam enim cumque, omnis libero aliquam quibusdam iusto corrupti expedita minima sunt consequatur commodi rerum, dolore temporibus! Natus ratione dolorem exercitationem.</p>
+    <ul>
+        <li>david s</li>
+        <li>ahmad s</li>
+    </ul>
+</body>
+</html>
